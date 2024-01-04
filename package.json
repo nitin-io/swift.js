@@ -1,0 +1,9 @@
+{
+  "name": "waffle",
+  "version": "1.0.0",
+  "description": "a nodejs framework to build robust apis.",
+  "main": "server.js",
+  "type": "module",
+  "author": "nitin chaudhary",
+  "license": "MIT"
+}
